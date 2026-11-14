@@ -31,7 +31,7 @@ const PROJECTS = [
   {
     title: "Detection and Classification of Skin Cancer Using Deep Learning",
     images:[
-  "assets/images/projects/output1.jpeg",
+  "assets/images/projects/Output1.jpeg",
   "assets/images/projects/output2.jpeg",
   "assets/images/projects/output3.jpeg",
   "assets/images/projects/output4.jpeg",
